@@ -12,7 +12,6 @@
   ],
   "require": {
       "php": "^8.1",
-      "lunarphp/lunar": "^0.7",
       "stripe/stripe-php": "^7.114",
       "livewire/livewire": "^3.0@beta",
       "laravel/pint": "^1.13"
